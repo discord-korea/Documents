@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://htb.teamht.xyz/static/images/logo.png" alt="해피트리봇" height="128" style="border-radius: 50%">
+    <img src="https://htb.htlab.kr/static/images/logo.png" alt="해피트리봇" height="128" style="border-radius: 50%">
     <h1>해피트리봇</h1>
 </div>
 <div align="center">
